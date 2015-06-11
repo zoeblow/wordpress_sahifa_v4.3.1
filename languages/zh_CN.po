@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sahifa 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-03 18:08+0200\n"
+"PO-Revision-Date: 2014-08-13 16:04+0800\n"
+"Last-Translator: Fouad Badawy <fouad@mo3aser.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: en_EG\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6 ../loop.php:3 ../page.php:7
+msgid "Not Found"
+msgstr "未找到"
+
+#: ../404.php:9
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "道歉，但您请求的页面无法找到。也许搜索将有所帮助。"
+
+#: ../404.php:13
+msgid "Pages"
+msgstr "独立页面"
+
+#: ../404.php:18
+msgid "Categories"
+msgstr "分类目录"
+
+#: ../404.php:23
+msgid "Tags"
+msgstr "标签"
+
+#: ../404.php:35
+msgid "Authors"
+msgstr "作者"
+
+#: ../archive.php:9
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "日度归档: <span>%s</span>"
+
+#: ../archive.php:11
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "月度归档: <span>%s</span>"
+
+#: ../archive.php:13
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "年度归档: <span>%s</span>"
+
+#: ../archive.php:15
+msgid "Blog Archives"
+msgstr "博客归档"
+
+#: ../author.php:9
+#, php-format
+msgid "Author Archives: %s"
+msgstr "作者归档: %s"
+
+#: ../author.php:12 ../category.php:10
+msgid "Feed Subscription"
+msgstr "Feed 订阅"
+
+#: ../author.php:27
+msgid " 's site"
+msgstr " 's 站点"
+
+#: ../author.php:30
+msgid "  on Twitter"
+msgstr "  on Twitter"
+
+#: ../author.php:33
+msgid "  on Facebook"
+msgstr "  on Facebook"
+
+#: ../author.php:36
+msgid "  on Google+"
+msgstr "  on Google+"
+
+#: ../author.php:39
+msgid "  on Linkedin"
+msgstr "  on Linkedin"
+
+#: ../author.php:42
+msgid "  on Flickr"
+msgstr "  on Flickr"
+
+#: ../author.php:45
+msgid "  on YouTube"
+msgstr "  on YouTube"
+
+#: ../author.php:48
+msgid "  on Pinterest"
+msgstr "  on Pinterest"
+
+#: ../author.php:51
+msgid "  on Behance"
+msgstr "  on Behance"
+
+#: ../author.php:54
+msgid "  on Instagram"
+msgstr "  on Instagram"
+
+#: ../comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "本日志被密码保护，输入密码方可查询相关内容。"
+
+#: ../comments.php:12
+msgid "No comments"
+msgstr "无评论"
+
+#: ../comments.php:12
+msgid "One comment"
+msgstr "1 评论"
+
+#: ../comments.php:12
+msgid "comments"
+msgstr " 评论"
+
+#: ../comments.php:17
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 较早评论"
+
+#: ../comments.php:18
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "最新评论 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr "评论功能关闭。"
+
+#: ../comments.php:46
+msgid "Name"
+msgstr "名称"
+
+#: ../comments.php:48
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../comments.php:50
+msgid "Website"
+msgstr "网址"
+
+#: ../comments.php:53
+msgid " Required fields are marked"
+msgstr "必填内容已经标记"
+
+#: ../comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须 <a href=\"%s\">登录</a> 才能发表评论."
+
+#: ../comments.php:58
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"以 <a href=\"%1$s\">%2$s</a>登录. <a href=\"%3$s\" title=\"Log out of this "
+"account\">登出?</a>"
+
+#: ../comments.php:59
+msgid "Your email address will not be published."
+msgstr "你的电子邮件地址不会被公开。"
+
+#: ../comments.php:60
+msgid "Leave a Reply"
+msgstr "发表回复"
+
+#: ../comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "发表回复到 %s"
+
+#: ../comments.php:62
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: ../comments.php:63
+msgid "Post Comment"
+msgstr "日志评论"
+
+#: ../footer.php:27
+msgid "Scroll To Top"
+msgstr "滚动至顶部"
+
+#: ../header.php:36
+msgid "Search"
+msgstr "搜索"
+
+#: ../header.php:37
+msgid "Search..."
+msgstr "搜索..."
+
+#: ../header.php:128
+msgid "Random Article"
+msgstr "随机文章"
+
+#: ../index.php:23
+msgid "You can use Homepage builder to build your homepage"
+msgstr "你可以使用首页生成器生成你的首页"
+
+#: ../loop.php:5 ../page.php:9
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "抱歉，无结果。也许搜索能帮到您。或是寻找相关日志。"
+
+#: ../loop.php:20 ../loop.php:33 ../loop.php:51
+msgid "Read More &raquo;"
+msgstr "阅读更多 &raquo;"
+
+#: ../page.php:46
+msgid "Pages:"
+msgstr "页码："
+
+#: ../page.php:50
+msgid "Edit"
+msgstr "编辑"
+
+#: ../search.php:9
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s 的搜索结果"
+
+#: ../search.php:11
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: ../search.php:23
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有匹配你的搜索项，请重试或是使用其它关键字。"
+
+#: ../single.php:66
+msgid "Tagged with: "
+msgstr "标签: "
+
+#: ../single.php:79
+msgid "About"
+msgstr "关于"
+
+#: ../single.php:90
+msgid "Previous:"
+msgstr "上一页:"
+
+#: ../single.php:91
+msgid "Next:"
+msgstr "下一页:"
+
+#: ../tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "标签归档: %s"
+
+#: ../template-best-reviews.php:59
+msgid "Posted by: "
+msgstr "发布:"
+
+#: ../template-best-reviews.php:61
+msgid "on "
+msgstr "时间:"
+
+#: ../template-best-reviews.php:63
+msgid "in "
+msgstr "分类:"
+
+#: ../template-restrict.php:43
+msgid "You must be "
+msgstr "你必须"
+
+#: ../template-restrict.php:43
+msgid "logged in"
+msgstr "登陆于"
+
+#: ../template-restrict.php:43
+msgid " to view this page."
+msgstr "才能浏览页面."
+
+#: ../template-timeline.php:61
+#, php-format
+msgid "Permalink to %s"
+msgstr "链向 %s 的固定链接"
+
+#: ../functions/common-scripts.php:46 ../functions/theme-functions.php:72
+msgid "Go to..."
+msgstr "前往..."
+
+#: ../functions/common-scripts.php:47 ../functions/theme-functions.php:1621
+#: ../functions/theme-functions.php:1627
+msgid "Your Rating:"
+msgstr "你的评分："
+
+#: ../functions/theme-functions.php:30
+msgid "Top Menu Navigation"
+msgstr "顶部菜单导航"
+
+#: ../functions/theme-functions.php:31
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: ../functions/theme-functions.php:56
+msgid "You can use WP menu builder to build menus"
+msgstr "你可以wp菜单项建立菜单导航"
+
+#: ../functions/theme-functions.php:675
+msgid "Social Networking"
+msgstr "社交网络"
+
+#: ../functions/theme-functions.php:765
+msgid "No items."
+msgstr "没有项目。"
+
+#: ../functions/theme-functions.php:770
+msgid "Posted "
+msgstr "发布于"
+
+#: ../functions/theme-functions.php:1301
+msgid "Welcome"
+msgstr "欢迎"
+
+#: ../functions/theme-functions.php:1304
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: ../functions/theme-functions.php:1305
+msgid "Your Profile"
+msgstr "您的配置文件"
+
+#: ../functions/theme-functions.php:1306
+msgid "Logout"
+msgstr "注销"
+
+#: ../functions/theme-functions.php:1346
+msgid "Username"
+msgstr "用户名"
+
+#: ../functions/theme-functions.php:1347
+msgid "Password"
+msgstr "密码"
+
+#: ../functions/theme-functions.php:1348
+msgid "Log in"
+msgstr "登录"
+
+#: ../functions/theme-functions.php:1349
+msgid "Remember Me"
+msgstr "记住我"
+
+#: ../functions/theme-functions.php:1354
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: ../functions/theme-functions.php:1441
+msgid "Review Overview"
+msgstr "预览概述"
+
+#: ../functions/theme-functions.php:1495
+msgid "Summary :"
+msgstr "摘要："
+
+#: ../functions/theme-functions.php:1598
+msgid "No Ratings Yet !"
+msgstr "没有评价呢!"
+
+#: ../functions/theme-functions.php:1602
+msgid "Be the first one !"
+msgstr "是第一个!"
+
+#: ../functions/theme-functions.php:1621 ../functions/theme-functions.php:1627
+#: ../functions/theme-functions.php:1634
+msgid "votes"
+msgstr "投票"
+
+#: ../functions/theme-functions.php:1632 ../functions/theme-functions.php:1634
+msgid "User Rating:"
+msgstr "用户评价："
+
+#: ../functions/theme-functions.php:1654 ../functions/theme-functions.php:1661
+#: ../functions/theme-functions.php:1667 ../functions/theme-functions.php:1673
+msgid "ago"
+msgstr "前"
+
+#: ../functions/theme-functions.php:1830
+#, php-format
+msgid "Page %s"
+msgstr "页码 %s"
+
+#: ../functions/widgetize-theme.php:13
+msgid "Primary Widget Area"
+msgstr "主要小工具区域"
+
+#: ../functions/widgetize-theme.php:15
+msgid "The Primary widget area"
+msgstr "主要小工具区域"
+
+#: ../functions/widgetize-theme.php:21
+msgid "Shop - For WooCommerce Pages"
+msgstr "商店——WooCommerce页面"
+
+#: ../functions/widgetize-theme.php:23
+msgid "This widget area uses in the WooCommerce pages ."
+msgstr "这个小部件区域用于WooCommerce页面。"
+
+#: ../functions/widgetize-theme.php:53
+msgid "First Footer Widget Area"
+msgstr "第一个页脚小工具"
+
+#: ../functions/widgetize-theme.php:55
+msgid "The first footer widget area"
+msgstr "第一个页脚小工具"
+
+#: ../functions/widgetize-theme.php:61
+msgid "Second Footer Widget Area"
+msgstr "第二个页脚小工具"
+
+#: ../functions/widgetize-theme.php:63
+msgid "The Second footer widget area"
+msgstr "第二个页脚小工具"
+
+#: ../functions/widgetize-theme.php:70
+msgid "Third Footer Widget Area"
+msgstr "第三个页脚小工具"
+
+#: ../functions/widgetize-theme.php:72
+msgid "The Third footer widget area"
+msgstr "第三个页脚小工具"
+
+#: ../functions/widgetize-theme.php:79
+msgid "Fourth Footer Widget Area"
+msgstr "第四个页脚小工具"
+
+#: ../functions/widgetize-theme.php:81
+msgid "The Fourth footer widget area"
+msgstr "第四个页脚小工具"
+
+#: ../includes/archives-meta.php:16
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: ../includes/archives-meta.php:16
+msgid "1 Comment"
+msgstr "1 评论"
+
+#: ../includes/archives-meta.php:16
+msgid "% Comments"
+msgstr "% 评论"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Home"
+msgstr "主页"
+
+#: ../includes/breadcrumbs.php:107
+msgid "page "
+msgstr "页面"
+
+#: ../includes/breaking-news.php:18
+msgid "Breaking News"
+msgstr "滚动新闻"
+
+#: ../includes/pagenavi.php:159
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "页码%CURRENT_PAGE% of %TOTAL_PAGES%"
+
+#: ../includes/pagenavi.php:162
+msgid "&laquo; First"
+msgstr "&laquo; 第一个"
+
+#: ../includes/pagenavi.php:163
+msgid "Last &raquo;"
+msgstr "最近 &raquo;"
+
+#: ../includes/pagenavi.php:164
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../includes/pagenavi.php:165
+msgid "&laquo;"
+msgstr "&raquo;"
+
+#: ../includes/pagenavi.php:166 ../includes/pagenavi.php:167
+msgid "..."
+msgstr "..."
+
+#: ../includes/post-related.php:29
+msgid "Related Articles"
+msgstr "相关文章"
+
+#: ../includes/post-share.php:7
+msgid "Share !"
+msgstr "分享"
+
+#: ../includes/wp_list_comments.php:9
+#, php-format
+msgid "%s "
+msgstr "%s "
+
+#: ../includes/wp_list_comments.php:10
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: ../includes/wp_list_comments.php:10 ../includes/wp_list_comments.php:30
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: ../includes/wp_list_comments.php:15
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: ../includes/wp_list_comments.php:30
+msgid "Pingback:"
+msgstr "引用通告："
+
+#: ../includes/widgets/widget-ads.php:78
+#: ../includes/widgets/widget-ads.php:198
+#: ../includes/widgets/widget-ads.php:320
+#: ../includes/widgets/widget-ads.php:441
+#: ../includes/widgets/widget-ads.php:562
+#: ../includes/widgets/widget-ads.php:709
+#: ../includes/widgets/widget-ads.php:817
+#: ../includes/widgets/widget-ads.php:926
+#: ../includes/widgets/widget-ads.php:1038
+#: ../includes/widgets/widget-ads.php:1150
+msgid " Advertisement"
+msgstr "广告"
+
+#: ../includes/widgets/widget-author.php:23
+#, php-format
+msgid "About %s"
+msgstr "关于 %s"
+
+#: ../includes/widgets/widget-author.php:91
+#, php-format
+msgid "By %s"
+msgstr "By %s"
+
+#: ../includes/widgets/widget-author.php:99
+msgid "All"
+msgstr "全部"
+
+#: ../includes/widgets/widget-authors-posts.php:46
+msgid "Authors Posts"
+msgstr "作者日志"
+
+#: ../includes/widgets/widget-category.php:46
+msgid "Category Posts"
+msgstr "分类日志"
+
+#: ../includes/widgets/widget-comments-avatar.php:42
+msgid "Recent Comments"
+msgstr "最近评论"
+
+#: ../includes/widgets/widget-counter.php:52
+#: ../includes/widgets/widget-feedburner.php:30
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ../includes/widgets/widget-counter.php:52
+#: ../includes/widgets/widget-counter.php:83
+#: ../includes/widgets/widget-counter.php:93
+msgid "Subscribers"
+msgstr "订阅者"
+
+#: ../includes/widgets/widget-counter.php:53
+msgid "To RSS Feed"
+msgstr "到RSS Feed"
+
+#: ../includes/widgets/widget-counter.php:63
+#: ../includes/widgets/widget-counter.php:103
+#: ../includes/widgets/widget-counter.php:113
+#: ../includes/widgets/widget-counter.php:123
+#: ../includes/widgets/widget-counter.php:133
+msgid "Followers"
+msgstr "关注"
+
+#: ../includes/widgets/widget-counter.php:73
+msgid "Fans"
+msgstr "粉丝"
+
+#: ../includes/widgets/widget-custom-author.php:52
+msgid "About Author"
+msgstr "关于作者"
+
+#: ../includes/widgets/widget-facebook.php:41
+msgid "Find us on Facebook"
+msgstr "联系到 Facebook"
+
+#: ../includes/widgets/widget-feedburner.php:27
+msgid "Enter your e-mail address"
+msgstr "请输入您的E-mail地址"
+
+#: ../includes/widgets/widget-feedburner.php:51
+msgid "FeedBurner Widget"
+msgstr "订阅小工具"
+
+#: ../includes/widgets/widget-feedburner.php:51
+msgid "Subscribe to our email newsletter."
+msgstr "订阅到邮件."
+
+#: ../includes/widgets/widget-flickr.php:44
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../includes/widgets/widget-google.php:53
+msgid "Follow us on Google+"
+msgstr "关注到 Google+"
+
+#: ../includes/widgets/widget-login.php:35
+msgid "Login"
+msgstr "登录"
+
+#: ../includes/widgets/widget-news-pic.php:44
+msgid "News in Pictures"
+msgstr "图片新闻"
+
+#: ../includes/widgets/widget-posts.php:55
+msgid "Recent Posts"
+msgstr "最新日志"
+
+#: ../includes/widgets/widget-search.php:15
+msgid "to search type and hit enter"
+msgstr "若要搜索，请输入并按下enter键"
+
+#: ../includes/widgets/widget-social.php:51
+msgid "Social"
+msgstr "社会化"
+
+#: ../includes/widgets/widget-tabbed.php:21
+msgid "Popular"
+msgstr "最受关注"
+
+#: ../includes/widgets/widget-tabbed.php:22
+msgid "Recent"
+msgstr "最新"
+
+#: ../includes/widgets/widget-tabbed.php:23
+msgid "Comments"
+msgstr "评论"
+
+#: ../includes/widgets/widget-text-html.php:61
+msgid "Text"
+msgstr "文本"
+
+#: ../includes/widgets/widget-twitter.php:107
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: ../includes/widgets/widget-twitter.php:109
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: ../includes/widgets/widget-twitter.php:110
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../includes/widgets/widget-twitter.php:110
+msgid "Y/m/d H:i:s"
+msgstr "Y/m/d H:i:s"
+
+#: ../includes/widgets/widget-twitter.php:150
+msgid "@Follow Me"
+msgstr "@Follow Me"
+
+#: ../includes/widgets/widget-video.php:63
+msgid " Featured Video"
+msgstr "精华视频"
+
+#: ../includes/widgets/widget-youtube.php:40
+msgid "Subscribe to our Channel"
+msgstr "订阅我们"
+
+#: ../panel/mpanel-functions.php:92
+msgid "Use this image"
+msgstr "用这个图片"
+
+#: ../panel/shortcodes/shortcode.php:396
+msgid "About The Author"
+msgstr "关于作者"
+
+#: ../woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr "相关产品"
